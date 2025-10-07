@@ -23,9 +23,5 @@ This repository contains a data analysis of 200 students to predict final exam s
     * matplotlib
     * seaborn
 
-3.  **Download the Dataset:**
-    The data is not included in this repository. You can download it from Kaggle at the following link:
-    * [Link to the Kaggle Dataset Page] (<- **PASTE THE KAGGLE LINK HERE**)
-
-4.  **Run the Notebook:**
+3.  **Run the Notebook:**
     Open the `sleep-study-trade-off-frontier.ipynb` file in a Jupyter environment like VS Code or Google Colab and run the cells.
